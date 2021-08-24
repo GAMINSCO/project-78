@@ -1,0 +1,19 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    text-align: center;
+}
+#main-nav{
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+    font-size: xx-large;
+}
+#main-img{
+    width: 350px;
+    height: 400px;
+}
+#main-button{
+    width: 100px;
+    height: 50px;
+}
